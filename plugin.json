@@ -1,0 +1,15 @@
+{
+  "name": "antigravity-cli-wakatime",
+  "description": "WakaTime plugin for Google Antigravity CLI - Track your AI usage, lines of code generated, and time spent prompting AI",
+  "version": "1.0.0",
+  "author": {
+    "name": "JanDalhuysen"
+  },
+  "homepage": "https://github.com/JanDalhuysen/antigravity-cli-wakatime",
+  "repository": "https://github.com/JanDalhuysen/antigravity-cli-wakatime",
+  "license": "BSD-3-Clause",
+  "keywords": ["time-tracking", "hooks", "productivity", "metrics", "antigravity", "antigravity-cli"],
+  "category": "productivity",
+  "tags": ["productivity", "metrics"],
+  "hooks": "hooks.json"
+}
